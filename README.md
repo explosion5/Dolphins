@@ -6,6 +6,8 @@ Please modify dolphins_generation.py to set your own positions of sensors and th
 
 Thanks for the work: https://github.com/liulingfeng123/Carla0.9.10-kitti-data-export. It helps to export data in KITTI format.
 
+The code has been tested with CARLA 0.9.12
+
 # Citation
 
 ```
