@@ -94,7 +94,7 @@ def save_lidar_data(filename, point_cloud, format="bin"):
                       lidar_array[:, 2].min(), lidar_array[:, 0].max()))
         lidar_array.tofile(filename)
 
-    point_cloud.save_to_disk(filename)
+    # point_cloud.save_to_disk(filename)
 
 
 
